@@ -15,7 +15,7 @@ The designs were created to the following widths:
 
 - Pink: hsl(322, 100%, 66%)
 
-### Neutral
+### Neutral 
 
 - Very Pale Cyan: hsl(193, 100%, 96%)
 - Very Dark Cyan: hsl(192, 100%, 9%)
